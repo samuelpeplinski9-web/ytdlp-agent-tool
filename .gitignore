@@ -1,0 +1,4 @@
+downloads/
+.bin/
+*.zip
+__pycache__/
